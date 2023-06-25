@@ -1,0 +1,42 @@
+.carts {
+    border: 1px solid rgba(0, 0, 0, 0.243);
+    border-radius: 8px;
+    width: 300px;
+    height: 550px;
+    position: relative;
+}
+
+.image {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.name {
+    Font-family: 'Lato';
+    Font-style: normal;
+    Font-size: 21px;
+    Line-height: 25px;
+    Line-height: 100%;
+    align-items: Left;
+    Vertical-align: Top;
+    Letter-spacing: 0.15%;
+}
+
+.text {
+    padding: 7px;
+}
+
+.btn {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    height: 48px;
+}
+.btn:hover{
+    background-color: orange;
+}
